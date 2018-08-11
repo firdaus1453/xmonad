@@ -24,6 +24,9 @@ Okay, there's a conky config tho...
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky)
 - [termsyn](https://termsyn.sourceforge.io/)
 
+### FONT U MUST HAVE
+- SIJI
+
 ### TODOS
 - [ ] Cleanup
 - [ ] More beautiful
